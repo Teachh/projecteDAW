@@ -1,5 +1,7 @@
 ## Mi idea de proyecto final
-
+<div class="alert alert-info" role="alert">
+  Me llamo Héctor y mi intención es hacer una especie de red social de dibujo.
+</div>
 Mi intención es hacer una especie de red social de dibujo.
 
 ### Funcionamiento
