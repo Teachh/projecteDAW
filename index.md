@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Mi idea de proyecto final
 
-You can use the [editor on GitHub](https://github.com/Teachh/projecteDAW/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mi intención es hacer una especie de red social de dibujo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Funcionamiento
 
-### Markdown
+Lo que haría es que a partir de una cuenta registrada ( usuario ), la gente a partir de una URL de una imagen pueda hacer un dibujo con un JS que he creado previamente [mi proyecto](https://github.com/Teachh/Draw), ese dibujo y esa luego pueden ser evaluadas por los otros usuarios.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Mis habilidades de dibujo
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Teachh/projecteDAW/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Image](https://cdn.ciudad.com.ar/sites/default/files/styles/grizzly_galeria/public/nota/2020/03/03/viral_.jpg?itok=_I4n0WZO)
