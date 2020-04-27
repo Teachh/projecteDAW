@@ -26,7 +26,7 @@
       <div class="card-body">
         <h5 class="card-title">Laravel</h5>
         <p class="card-text">Utilizaré el framework Laravel para hacer todo el tema de backend</p>
-        <a href="https://laravel.com/" class="btn btn-primary">Laravel</a>
+        <a href="https://laravel.com/" class="btn btn-primary w-100">Laravel</a>
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@
       <div class="card-body">
         <h5 class="card-title">Java</h5>
         <p class="card-text">También utilizaré una aplicación para generar información</p>
-        <a href="https://www.java.com/es/download/" class="btn btn-primary">Java</a>
+        <a href="https://www.java.com/es/download/" class="btn btn-primary w-100">Java</a>
       </div>
     </div>
   </div>
