@@ -12,7 +12,7 @@
 </div>
 ### Funcionamiento
 <div class="card">
-  <h5 class="card-header">Featured</h5>
+  <h5 class="card-header">Funcionamiento</h5>
   <div class="card-body">
     <h5 class="card-title">Funcionamiento basico</h5>
     <p class="card-text">Lo que haría es que a partir de una cuenta registrada ( usuario ), la gente a partir de una URL de una imagen pueda hacer un dibujo con un JS que he creado previamente [mi proyecto](https://github.com/Teachh/Draw), ese dibujo y esa luego pueden ser evaluadas por los otros usuarios.</p>
