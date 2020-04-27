@@ -5,7 +5,7 @@
   Me llamo Héctor y mi intención es hacer una especie de red social de dibujo.
 </div>
 <div class="alert alert-warning alert-dismissible fade show" role="alert">
-  <strong>Holy guacamole!</strong> O almenos intentarlo jejeje
+  <strong>Lo hare en menos de 3 dias!</strong> O almenos intentarlo jejeje
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
     <span aria-hidden="true">&times;</span>
   </button>
