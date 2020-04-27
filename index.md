@@ -8,7 +8,5 @@ Lo que haría es que a partir de una cuenta registrada ( usuario ), la gente a p
 
 ## Mis habilidades de dibujo
 
-xD
-
 <img src="https://cdn.ciudad.com.ar/sites/default/files/styles/grizzly_galeria/public/nota/2020/03/03/viral_.jpg?itok=_I4n0WZO" alt="hi" class="inline"/>
 
